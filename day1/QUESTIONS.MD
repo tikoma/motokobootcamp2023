@@ -30,5 +30,5 @@ function change_message is not query function. It chnages the state of the canis
 
 4. False or True: we can remove the keyword async for return argument of a query function since queries are faster to answer.
 
-True
+False
 
