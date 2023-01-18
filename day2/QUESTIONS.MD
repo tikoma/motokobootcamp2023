@@ -39,6 +39,10 @@ actor {
  
 }
 
+
+Public functions can not return mutable object.
+
+
 6. What is wrong with the following code?
 actor {
   var languages : [Text] = ["English", "German", "Chinese", "Japanese", "French"];
